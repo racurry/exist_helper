@@ -1,0 +1,3 @@
+venv/*
+secrets.yml
+*__pycache__*
